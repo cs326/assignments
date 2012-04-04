@@ -3,6 +3,13 @@
 In this assignment you must create a simple chat application using
 *Ajax* and a *Database* backend. 
 
+## Setup
+After you clone this git repository you should run the following:
+
+    $ npm install
+
+This will install the necessary dependencies for the node.js application.
+
 ## Assessment
 You will be assessed on the following knowledge topics:
 
