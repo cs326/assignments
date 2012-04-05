@@ -6,6 +6,7 @@ In this assignment you must create a simple chat application using
 ## Setup
 After you clone this git repository you should run the following:
 
+    $ cd chat
     $ npm install
 
 This will install the necessary dependencies for the node.js application.
